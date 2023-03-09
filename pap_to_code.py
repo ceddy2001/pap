@@ -9,3 +9,10 @@ else:
     elif license_request == 1:
 
 
+print("Hast du Alkohol Getrunken? (y/n)")
+alkohol = input()
+
+if alkohol == y:
+
+elif alkohol == n: 
+    print("Nach Hause fahren")
